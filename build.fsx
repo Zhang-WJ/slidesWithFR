@@ -10,7 +10,7 @@
 // Git configuration (used for publishing documentation in gh-pages branch)
 // The profile where the project is posted
 let gitOwner = "Zhang-WJ"
-let gitHome = "https://github.com/" + gitOwner
+let gitHome = "git@github.com:" + gitOwner
 // The name of the project on GitHub
 let gitProjectName = "slidesWithFR"
 // The name of the GitHub repo subdirectory to publish slides to
